@@ -1,7 +1,8 @@
-0.client-channel.google.com
+0client-channelgooglecom
 0-edge-chat.facebook.com
 1.bp.blogspot.com
 1.envato.market
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services meta.plex.tv
 1drv.com
 1-edge-chat.facebook.com
@@ -20,7 +21,10 @@
 79423.analytics.edgekey.net
 7eer.net
 9to5google.com
+a.espncdn.com
 a.trellocdn.com
+a1.espncdn.com
+a2.espncdn.com
 a463.w10.akamai.net
 a790.w16.akamai.net
 abebooks.com
@@ -49,6 +53,7 @@ addons.mozilla.org
 addons.prestashop.com
 adf.ly
 adfoc.us
+adobedtm.com
 ae01.alicdn.com
 affili.net
 affiliatefuture.com
@@ -67,6 +72,7 @@ algolia.com
 alive.github.com
 alluremedia.com
 amazon.co.uk
+amazon.com
 amazon.in
 amazonaws.com
 amd.cdn.turner.com
@@ -153,6 +159,8 @@ az764295.vo.msecnd.net
 b.marfeelcache.com
 b2bapi.zee5.com
 backend-api-prod-obo-15977.horizon.tv.edgekey.net
+bam.nr-data.net
+bamgrid.com
 bam-sdk-configs.bamgrid.com
 bamtech.sc.omtrdc.net
 b-api.facebook.com
@@ -167,6 +175,7 @@ beta.spotify.map.fastly.net
 betanews.com
 bfast.com
 bgr.com
+b-graph.facebook.com
 bigzipfiles.facebook.com
 bing.com
 bit.ly
@@ -236,6 +245,7 @@ cdn.vidible.tv
 cdn.voscast.com
 cdn.w3schools.com
 cdn1.digitaltrends.com
+cdn1.espn.net
 cdn1.smartadserver.com
 cdn2.digitaltrends.com
 cdn2.optimizely.com
@@ -268,6 +278,7 @@ cfvod.kaltura.com
 channel9.msdn.com
 chart.googleapis.com
 chat.cdn.whatsapp.net
+chevrolet.com
 chocolatey.org
 choices.truste.com
 chrome.google.com
@@ -318,6 +329,7 @@ commission-junction.com
 compass-ssl.microsoft.com.edgekey.net
 completion.amazon.co.uk
 config.outturner.com
+connect.facebook.com
 connect.facebook.net
 connect.googleforwork.com
 connectivitycheck.android.com
@@ -359,6 +371,7 @@ d1a62freaxhn7x.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
+d9.flashtalking.com
 daisycon.com
 dashboard.gramup.me
 dashboard.likeup.me
@@ -393,6 +406,10 @@ digitaltrends.com
 diks.nl
 directvapplications.hb.omtrdc.net
 directvnow.com
+disneyplus.bn5x.net
+disneyplus.com
+disney-plus.net
+disney-portal.my.onetrust.com
 display.ugc.bazaarvoice.com
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
@@ -421,6 +438,7 @@ dronekiezer.nl
 dronevlieger.nl
 drop.ndtv.com.edgekey.net
 dsms0mj1bbhn4.cloudfront.net
+dssott.com
 duo.google.com
 dw.techrepublic.com
 dynaimage.cdn.turner.com
@@ -499,6 +517,7 @@ facebook.net
 faq.whatsapp.com
 fast.fonts.net
 fb.me
+fb.me bigzipfiles.facebook.com
 fbcdn.net
 fbcdn-creative-a.akamaihd.net
 fcm.googleapis.com
@@ -637,6 +656,7 @@ id.cdn.upcbroadband.com
 id.google.co.in
 id.google.com
 identity.apple.com
+ifit.com
 ig.apple.com
 iij.ad.jp
 image.ard.de
@@ -691,6 +711,7 @@ jquery.com
 js.indexww.com
 js.maxmind.com
 js.stripe.com
+js-agent.newrelic.com
 jsdelivr.net
 json.bild.de
 kb.adguard.com
@@ -803,6 +824,7 @@ media.fyxd2-1.fna.whatsapp.net
 media.fzty2-1.fna.whatsapp.net
 media.licdn.com
 media.sbs.com.au
+media.video-cdn.espn.com
 media.wired.com
 media-ams3-1.cdn.whatsapp.net
 media-amt2-1.cdn.whatsapp.net
@@ -873,6 +895,7 @@ mobile.pipe.aria.microsoft.com
 mobile-ap.spotify.com
 mobilenetworkscoring-pa.googleapis.com
 movies.ndtv.com
+mqtt.c10r.facebook.com
 mqtt-mini.facebook.com
 mscomajax.vo.msecnd.net
 msedge.net
@@ -1059,6 +1082,7 @@ s.yimg.com
 s.youtube.com
 s.ytimg.com
 s.zkcdn.net
+s{1..5}.symcb.com
 s0.wp.com
 s0-san.cloudinary.com.edgekey.net
 s1.symcb.com
@@ -1116,6 +1140,7 @@ settings.crisp.chat
 settings-win.data.microsoft.com
 setup.airtelbroadband.in
 setup.icloud.com
+sfdataservice.microsoft.com
 shareaholic.com
 shareasale.com
 shareasale-analytics.com
@@ -1134,6 +1159,7 @@ skyhook.sonarr.tv
 skype.com
 slack.com
 sls.update.microsoft.com
+sls.update.microsoft.com.akadns.net
 slscr.update.microsoft.com
 smartlock.google.com
 smashingmagazine.com
@@ -1148,6 +1174,7 @@ someonewhocares.org
 sourceforge.net
 sourcegraph.com
 sourcepoint.mgr.consensu.org
+sp.auth.adobe.com
 space.com
 spaceflightnow.com
 spclient.wg.spotify.com
@@ -1196,6 +1223,7 @@ storecatalogrevocation.storequality.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 store-images.microsoft.com
 store-images.s-microsoft.com
+streams.adobeprimetime.com
 studio.youtube.com
 stuffin.space
 subscribe.wired.com
@@ -1214,6 +1242,7 @@ t.purch.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tags.tiqcdn.com
+target.com
 tatacliq.com
 tawk.to
 tbsc.apple.com
@@ -1281,6 +1310,7 @@ updates.cdn-apple.com
 updates-http.cdn-apple.com
 upgrade.scdn.com
 upload.facebook.com
+upmc.com
 upmc.edu
 urs.techrepublic.com
 us.configsvc1.live.com.akadns.net
@@ -1427,6 +1457,7 @@ www.elephantjournal.com
 www.emjcd.com
 www.en.w3schools.com
 www.enews.techrepublic.com
+www.espn.com
 www.everydayhealth.com
 www.evyy.net
 www.example.com
