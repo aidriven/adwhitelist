@@ -107,6 +107,7 @@ api.smartredirect.com
 api.termius.com
 api.trello.com
 api.unsplash.com
+api.us-east-1.aiv-delivery.net
 api.userleap.com
 api1.origin.com
 api-global.netflix.com
@@ -609,6 +610,7 @@ goo.gl
 goodreads.com
 google-analytics.com
 googleapis.com
+googleapis.com
 googleapis.l.google.com
 googlehosted.l.googleusercontent.com
 googletagmanager.com
@@ -905,6 +907,7 @@ mms.whatsapp.net
 mobile.launchdarkly.com
 mobile.pipe.aria.microsoft.com
 mobile-ap.spotify.com
+mobile-collector.newrelic.com
 mobilenetworkscoring-pa.googleapis.com
 movies.ndtv.com
 mqtt.c10r.facebook.com
@@ -1405,6 +1408,7 @@ www.affiliatefuture.com
 www.algolia.com
 www.alluremedia.com
 www.amazonforum.com
+www.androidtvchannels-pa.googleapis.com
 www.angel.co
 www.anrdoezrs.net
 www.aolcdn.com
@@ -1489,6 +1493,7 @@ www.goodreads.com
 www.google.com
 www.google.nl
 www.google-analytics.com
+www.googleapis.com
 www.googleapis.com
 www.googletagmanager.com
 www.gopjn.com
@@ -1642,7 +1647,6 @@ zdnet2.cbsistatic.com
 zdnet3.cbsistatic.com
 zdnet4.cbsistatic.com
 zee.cws.conviva.com
-zenaps.com
 zenaps.com
 zeustracker.abuse.ch
 zmtcdn.edgekey.net
