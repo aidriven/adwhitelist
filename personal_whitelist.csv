@@ -21,6 +21,8 @@
 70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.ssl.cf3.rackcdn.com
 79423.analytics.edgekey.net
 7eer.net
+8g5xpqrt.r.us-east-1.awstrack.me
+8nnev7uv6g3b5mkcab8nmmoiuhdn61682743394.uaid.imrworldwide.com
 9to5google.com
 a.espncdn.com
 a.trellocdn.com
@@ -61,6 +63,7 @@ adzerk.net
 ae01.alicdn.com
 affili.net
 affiliatefuture.com
+aholddelhaize.az1.qualtrics.com
 airtel.in
 ajax.aspnetcdn.com
 ajax.cloudflare.com
@@ -89,6 +92,7 @@ analytics.pinterest.com
 analytics.twitter.com
 android.clients.google.com
 androidtvchannels-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
 angel.co
 anrdoezrs.net
 answers.microsoft.com
@@ -100,6 +104,7 @@ api.bountysource.com
 api.facebook.com
 api.getpocket.com
 api.ipify.org
+api.lab.amplitude.com
 api.medium.com
 api.peer5.com
 api.pluto.tv
@@ -113,6 +118,7 @@ api.unsplash.com
 api.us-east-1.aiv-delivery.net
 api.userleap.com
 api1.origin.com
+api2.amplitude.com
 api2.branch.io
 api-global.netflix.com
 api-godaddy.nd.nudatasecurity.com
@@ -140,6 +146,7 @@ appspot-preview.l.google.com
 appsumo.com
 apresolve.spotify.com
 apt.sonarr.tv
+arc.msn.com
 askvg.com
 aspnetcdn.com
 asset.wsj.net
@@ -203,6 +210,7 @@ blog.medium.com
 blog.sessionstack.com
 blog.techrepublic.com
 blogs.techrepublic.com
+bluesombrero.com
 bnrs-cdn.shoop.de
 bnrs-engine.shoop.de
 boards.greenhouse.io
@@ -245,6 +253,7 @@ cdn.onenote.net.edgekey.net
 cdn.onesignal.com
 cdn.optimizely.com
 cdn.perfdrive.com
+cdn.quantummetric.com
 cdn.rawgit.com
 cdn.refersion.com
 cdn.registerdisney.go.com
@@ -304,6 +313,7 @@ cigna.com
 cj.com
 cj.dotomi.com
 clc.stackoverflow.com
+click.discord.com
 click.instacartemail.com
 click.linksynergy.com
 click.redditmail.com
@@ -617,7 +627,6 @@ goo.gl
 goodreads.com
 google-analytics.com
 googleapis.com
-googleapis.com
 googleapis.l.google.com
 googlehosted.l.googleusercontent.com
 googletagmanager.com
@@ -641,9 +650,13 @@ hello.myfonts.net
 help.appsumo.com
 help.medium.com
 help.ui.xboxlive.com
+hersheypa.co1.qualtrics.com
+hersheypa.com
 hls.ted.com
+hls-beacons.xumo.com
 hn.algolia.com
 home.bt.com
+homedepot.az1.qualtrics.com
 hosts.herndl.org
 hostsfile.mine.nu
 hosts-file.net
@@ -742,6 +755,7 @@ khanacademy.org
 kineti.nl
 kinja.com
 kinja-debug.firebaseio.com
+kohls.sjv.io
 kqzyfj.com
 kv701-prod.do.dsp.mp.microsoft.com.edgekey.net
 l.facebook.com
@@ -759,6 +773,7 @@ licensing.mp.microsoft.com
 licensing.xboxlive.com
 lifehack.org
 lifehacker.com
+link.order.homedepot.com
 link.theplatform.com
 linkedin.com
 linksynergy.com
@@ -790,6 +805,7 @@ mail-attachment.googleusercontent.com
 malwareurls.joxeankoret.com
 manifest.auditude.com
 manifest.googlevideo.com
+manifest.production-public.tubi.io
 maps.google.com
 maps.google.fr
 maps.google.nl
@@ -1011,6 +1027,7 @@ pastebin.com
 paypal.com
 paytm.com
 pbs.twimg.com
+pennstatehealth.org
 pepperjamnetwork.com
 perimeterx.net
 pgi.billdesk.com
@@ -1059,6 +1076,7 @@ proxy.plex.bz
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
 proxy02.pop.plex.bz
+psu.edu
 pt.themoneytizer.com
 publishers.medium.com
 pubsub.plex.bz
@@ -1185,6 +1203,7 @@ silo.pluto.tv
 siloh.pluto.tv
 sitepoint.com
 sites.google.com
+skimresources.com
 skl.apple.com
 skyhook.sonarr.tv
 skype.com
@@ -1260,6 +1279,7 @@ studio.youtube.com
 stuffin.space
 subscribe.wired.com
 support.microsoft.com
+survey.medallia.com
 swcdn.apple.com
 swdist.apple.com
 swdownload.apple.com
@@ -1290,6 +1310,7 @@ the.earth.li
 theandroidsoul.com
 theguardian.com
 themoviedb.com
+thepiratebay.org
 thetvdb.com
 theverge.com
 thewindowsclub.com
@@ -1316,6 +1337,7 @@ track.resortsuiteconnect.com
 track.ucas.com
 track.webgains.com
 tracking.epicgames.com
+tracking.resortsuiteconnect.com
 tracking-protection.cdn.mozilla.net
 tradedoubler.com
 tradetracker.com
@@ -1324,6 +1346,7 @@ traffic.libsyn.com
 trak.in
 translate.google.com
 triplebyte.com
+trk.klclick.com
 truste.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 tvdb2.plex.tv
@@ -1332,9 +1355,11 @@ tvthemes.plexapp.com.cdn.cloudflare.net
 twimg.com
 twitwipe.com
 u.dji.com
+u2121938.ct.sendgrid.net
 uber.com
 ubisoft-uplay-savegames.s3.amazonaws.com
 ui.skype.com
+unagi.amazon.com
 unagi-na.amazon.com
 underarmour.scene7.com
 unsplash.com
@@ -1345,6 +1370,7 @@ upgrade.scdn.com
 upload.facebook.com
 upmc.com
 upmc.edu
+url818.waterinvoice.com
 urs.techrepublic.com
 us.configsvc1.live.com.akadns.net
 us.themoneytizer.com
@@ -1517,11 +1543,11 @@ www.google.com
 www.google.nl
 www.google-analytics.com
 www.googleapis.com
-www.googleapis.com
 www.googletagmanager.com
 www.gopjn.com
 www.gstatic.com
 www.help.medium.com
+www.hersheypa.com
 www.home.bt.com
 www.hosts-file.net
 www.hostsfile.org
@@ -1584,6 +1610,7 @@ www.ow.ly
 www.package.chocolatey.org
 www.packages.chocolatey.org
 www.paperoak.com
+www.pennstatehealth.org
 www.pjatr.com
 www.pjtra.com
 www.play.googleapis.com
@@ -1592,7 +1619,9 @@ www.pluralsight.com
 www.pntra.com
 www.pntrac.com
 www.pntrack.com
+www.pntrs.com
 www.preferences.truste.com
+www.psu.edu
 www.publishers.medium.co
 www.publishers.medium.com
 www.push.chocolatey.org
